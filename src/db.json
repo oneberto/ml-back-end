@@ -203,5 +203,17 @@
       "amount": 799884,
       "isSecondary": true
     }
+  ],
+  "coupons": [
+    {
+      "code": "10OFF",
+      "type": "percentage",
+      "value": 1000
+    },
+    {
+      "code": "20OFF",
+      "type": "fixed",
+      "value": 2000
+    }
   ]
 }

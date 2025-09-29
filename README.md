@@ -30,3 +30,8 @@ npm run start    # Desenvolvimento sem hot reload
 npm run build    # Compila o projeto TypeScript para JavaScript
 npm run serve    # Executa o projeto compilado em produção
 ```
+
+## Banco de Dados
+
+Este projeto **não utiliza banco de dados externo**.  
+Todas as informações estão armazenadas no arquivo [`src/db.json`](src/db.json).

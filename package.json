@@ -7,7 +7,7 @@
     "start": "ts-node src/index.ts",
     "dev": "nodemon --exec ts-node src/index.ts",
     "build": "tsc",
-    "serve": "node dist/index.js"
+    "serve": "ts-node src/index.ts"
   },
   "dependencies": {
     "express": "^5.1.0",
